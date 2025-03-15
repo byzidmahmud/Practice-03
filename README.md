@@ -1,2 +1,2 @@
 # Practice-1
-Simple portfolio website using html
+https://byzidmahmud.github.io/Practice-03/
